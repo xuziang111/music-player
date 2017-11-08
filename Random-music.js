@@ -15,6 +15,7 @@ $(".btn1").click(function(){
 $(".btn2").click(function(){
 	getChannel();
 });
+
 // 播放下一曲音乐
 $(".btn3").click(function(){
 	getmusic();
