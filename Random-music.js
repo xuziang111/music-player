@@ -1,6 +1,7 @@
 //播放控制
 var myAudio = $("audio")[0];
 var lyricArr = [];
+
 // 播放/暂停控制
 $(".btn1").click(function(){
 	if (myAudio.paused) {
