@@ -10,6 +10,7 @@ $(".btn1").click(function(){
 		pause()
 	}
 });
+
 // 频道切换
 $(".btn2").click(function(){
 	getChannel();
